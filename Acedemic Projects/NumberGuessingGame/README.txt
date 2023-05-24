@@ -1,0 +1,1 @@
+This is a game to play that is coded using php. You have to guess the number by guessing a lower or higher number. (for debugging purposes the number is diplayed in the textbox.)

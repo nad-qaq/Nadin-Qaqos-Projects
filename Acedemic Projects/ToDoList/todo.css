@@ -1,0 +1,33 @@
+html{
+
+    text-align: center;
+    padding: 100px;
+    font-family: 'Fuzzy Bubbles', cursive;
+    background: rgba(141, 224, 164, 0.5);
+/*    background-image: url("listBG.jpeg");
+    background-repeat: no-repeat;
+    background-size: 50% auto;*/
+}
+
+a {
+    text-decoration: none;
+    color: rgb(8, 38, 16);
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+    font-size: 1.25em;
+    
+}
+
+h2 {
+    text-decoration: underline;
+    font-family: 'Fuzzy Bubbles', cursive
+}
+
+input {
+    font-family: 'Fuzzy Bubbles', cursive
+}
