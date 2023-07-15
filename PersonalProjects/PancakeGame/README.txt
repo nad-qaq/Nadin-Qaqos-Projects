@@ -1,16 +1,6 @@
 ======================================================================
 This program shows us how to use stacks and queues
 
-
-In Folder
-==================
-main.cpp
-queueType.h
-stackType.h
-makefile
-README.txt
-
-
 How to Run:
 ======================================================================
 1. Type "make" into the terminal.
@@ -19,6 +9,7 @@ How to Run:
 4. Enter "make clean" to remove files created from compiling.
 
 Example output:
+======================================================================
 ** TOO LONG TO COPY ALL BUT HERE IS SOME **
 
 Enter how many people are at the table: 4
@@ -87,13 +78,3 @@ Select an option:
 Enter your choice (1-6): 6
 GOODBYE! :( 
 
-Files:
-======================================================================
-main.cpp - our main function. This is where everything gets tested and has all of the methods
-queueType.h - taken from previous work 
-stackType.h - taken from previous work
-
-
-Bugtesting
-======================================================================
-I have run this a few times and it didn't have any errors. 
