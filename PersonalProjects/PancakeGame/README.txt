@@ -1,5 +1,5 @@
 ======================================================================
-This program shows us how to use stacks and queues
+This C++ program plays a little pancake game. It uses stacks and queues.
 
 How to Run:
 ======================================================================
