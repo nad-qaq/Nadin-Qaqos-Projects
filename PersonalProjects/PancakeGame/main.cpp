@@ -1,7 +1,3 @@
-//Name:
-//Due Date: 11/14/22
-//Description: uses stacks and queues to have a fun pancake themed breakfast
-
 #include <iostream>
 #include <iomanip>
 #include <string>
