@@ -1,8 +1,3 @@
-//Name: Nadin Qaqos
-//Due Date: 03/06/23
-//Class: CSIS 352
-//Description: implements a method to solve the Josephus problem
-
 #include <iomanip>
 #include <iostream>
 #include "josephus.h"
@@ -40,8 +35,6 @@ int main() {
     } catch (exception& e){
         cout << "Error: " << e.what() << endl; 
     }
-
     
-
     return 0; 
 }
