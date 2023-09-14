@@ -1,4 +1,4 @@
-EXE = prog4
+EXE = josephus
 CC = g++
 OBJECTS =  main.o 
 LFLAGS = 

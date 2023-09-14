@@ -1,10 +1,12 @@
 ======================================================================
 This C++ program plays a little pancake game. It uses stacks and queues.
+stackType.h and queueType.h are files that have been given. Not necessary 
+to use, can use stack and queue library, but implemented this way. 
 
 How to Run:
 ======================================================================
 1. Type "make" into the terminal.
-2. Type "prog6" to run the program.
+2. Type "pancake" to run the program.
 3. Enter a number of people you want at the table and follow the prompts
 4. Enter "make clean" to remove files created from compiling.
 

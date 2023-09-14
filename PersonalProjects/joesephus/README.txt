@@ -5,7 +5,7 @@ How to Run:
 ======================================================================
 1. Type "make" into the terminal while in the correct folder to 
 compile program.
-2. Type "prog4" to run the program.
+2. Type "josephus" to run the program.
 3. Follow the prompts and you will get who the last person standin is.  		
 4. Enter "make clean" to remove files created from compiling.
 

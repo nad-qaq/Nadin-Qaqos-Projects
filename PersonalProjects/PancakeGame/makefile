@@ -1,5 +1,5 @@
 
-EXE = prog6 
+EXE = pancake 
 CC = g++
 OBJECTS = main.o 
 LFLAGS = 
